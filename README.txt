@@ -2,14 +2,12 @@
 
 This is a test page for a To-Do list for the OSDDMalaria project
 
-
-
 For project info see:
 
-http://www.thesynapticleap.org
+[The Synaptic Leap](http://www.thesynapticleap.org)
 
-http://openwetware.org/wiki/OSDDMalaria
+[Openwetware](http://openwetware.org/wiki/OSDDMalaria)
 
-http://www.twitter/OSDDMalaria
+[Twitter](http://www.twitter/OSDDMalaria)
 
-https://plus.google.com/u/0/114702323662314783325/posts
+[Google Plus](https://plus.google.com/u/0/114702323662314783325/posts)
