@@ -8,6 +8,4 @@ For project info see:
 
 [Openwetware](http://openwetware.org/wiki/OSDDMalaria)
 
-[Twitter](http://www.twitter/OSDDMalaria)
-
 [Google Plus](https://plus.google.com/u/0/114702323662314783325/posts)
