@@ -1,12 +1,8 @@
-<style>
-h1 {text-align:center;}
-p {text-align:center;}
-</style>
-
+<center>
 <a href="http://opensourcemalaria.org">
   <img src="http://opensourcemalaria.org/images/OSM-logo@2x.png" alt="OSM" style="border:0;">
 </a>
-
+</center>
 
 [The Synaptic Leap](http://www.thesynapticleap.org)
 
