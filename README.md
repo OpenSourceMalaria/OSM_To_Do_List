@@ -1,3 +1,8 @@
+<style>
+h1 {text-align:center;}
+p {text-align:center;}
+</style>
+
 <a href="http://opensourcemalaria.org">
   <img src="http://opensourcemalaria.org/images/OSM-logo@2x.png" alt="OSM" style="border:0;">
 </a>
