@@ -1,8 +1,8 @@
-## About
-
-This is a test page for a To-Do list for the OSDDMalaria project
-
-For project info see:
+<center>
+<a href="http://opensourcemalaria.org">
+  <img src="http://opensourcemalaria.org/images/OSM-logo@2x.png" alt="OSM" style="border:0;">
+</a>
+</center>
 
 [The Synaptic Leap](http://www.thesynapticleap.org)
 
