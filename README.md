@@ -1,4 +1,4 @@
-<h1> Open Soruce Malaria: Project Issue Tracker </h2>
+<h1> Open Source Malaria: Project Issue Tracker </h2>
 
 <a href="http://opensourcemalaria.org">
   <img src="http://opensourcemalaria.org/images/OSM-logo@2x.png" alt="OSM" style="border:0;">
