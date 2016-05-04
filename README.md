@@ -7,7 +7,7 @@
 
 [The Synaptic Leap](http://www.thesynapticleap.org)
 
-[OSM's Openwetware homepage](http://openwetware.org/wiki/OSDDMalaria)
+[Our Openwetware homepage](http://openwetware.org/wiki/OSDDMalaria)
 
 [Google+ group](https://plus.google.com/u/0/114702323662314783325/posts)
 
