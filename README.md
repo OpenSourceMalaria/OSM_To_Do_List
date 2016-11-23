@@ -9,3 +9,7 @@
 [Openwetware](http://openwetware.org/wiki/OSDDMalaria)
 
 [Google Plus](https://plus.google.com/u/0/114702323662314783325/posts)
+
+[Lab Notebooks](http://malaria.ourexperiment.org)
+
+[Edwin Tse's ELN](https://au-mynotebook.labarchives.com/share/Edwin%2520Tse/NDIzLjh8MTUwOS8zMjYvVHJlZU5vZGUvMjMyNzY4ODg1fDEwNzUuOA==)
