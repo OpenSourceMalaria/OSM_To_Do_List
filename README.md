@@ -13,3 +13,5 @@
 [Lab Notebooks](http://malaria.ourexperiment.org)
 
 [Edwin Tse's ELN](https://au-mynotebook.labarchives.com/share/Edwin%2520Tse/NDIzLjh8MTUwOS8zMjYvVHJlZU5vZGUvMjMyNzY4ODg1fDEwNzUuOA==)
+
+[OurExperiment LabNotbooks](http://malaria.ourexperiment.org)
