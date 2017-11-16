@@ -10,6 +10,9 @@
 
 [Google Plus](https://plus.google.com/u/0/114702323662314783325/posts)
 
-[Lab Notebooks](http://malaria.ourexperiment.org)
+[Labtrove Notebooks](http://malaria.ourexperiment.org)
 
-[Edwin Tse's ELN](https://au-mynotebook.labarchives.com/share/Edwin%2520Tse/NDIzLjh8MTUwOS8zMjYvVHJlZU5vZGUvMjMyNzY4ODg1fDEwNzUuOA==)
+# University of Sidney synthetic chemistry team
+* [Edwin Tse's ELN](https://au-mynotebook.labarchives.com/share/Edwin%2520Tse/NDIzLjh8MTUwOS8zMjYvVHJlZU5vZGUvMjMyNzY4ODg1fDEwNzUuOA==)
+* [David Smith's ELN](https://au-mynotebook.labarchives.com/share/David%2520Smith%2520OSM/OTQuOXwzMDE3MS83My9UcmVlTm9kZS80MDk4MzgwOTk5fDI0MC44OTk5OTk5OTk5OTk5OA==)
+* [Marat Korsik's ELN](https://au-mynotebook.labarchives.com/share/Marat%2520Korsik/MC4wfDI5MzcwLzAvVHJlZU5vZGUvMjU3MTEwMjYxfDAuMA==)
