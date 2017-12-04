@@ -4,12 +4,7 @@
 </a>
 </center>
 
-[The Synaptic Leap](http://www.thesynapticleap.org)
+This repository has been used as a place to list, and discuss, all the To Do items in the Open Source Malaria consortium - click on "Issues" above to see them all. There are still many items outstanding. As OSM has grown, separate repositories have grown up for [Series 4](https://github.com/OpenSourceMalaria/Series4), [Series 3](https://github.com/OpenSourceMalaria/Series3), [technical operations](https://github.com/OpenSourceMalaria/TechOps) etc. Things needing attention should now be listed in those more specialised locations, but discussion points of relevance to OSM more generally can still be listed in this repository if people want.
 
-[Openwetware](http://openwetware.org/wiki/OSDDMalaria)
+For information on OSM please see the [Landing Page](http://opensourcemalaria.org/) in the first instance.
 
-[Google Plus](https://plus.google.com/u/0/114702323662314783325/posts)
-
-[Lab Notebooks](http://malaria.ourexperiment.org)
-
-[Edwin Tse's ELN](https://au-mynotebook.labarchives.com/share/Edwin%2520Tse/NDIzLjh8MTUwOS8zMjYvVHJlZU5vZGUvMjMyNzY4ODg1fDEwNzUuOA==)
