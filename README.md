@@ -8,3 +8,5 @@ This repository has been used as a place to list, and discuss, all the To Do ite
 
 For general information on OSM please see the [About-StartHere-FAQ](https://github.com/OpenSourceMalaria/About-StartHere-FAQ) repository or the [Landing Page](http://opensourcemalaria.org/) in the first instance.
 
+Our Slack channel can be viewed here: https://mcoster.net/osm-slack-archive/
+
